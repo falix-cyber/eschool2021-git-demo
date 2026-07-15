@@ -1,1 +1,9 @@
-# ESCAPE SCHOOL 2021 DEMO
+# ESCAPE SCHOOL 2021 LIVE DEMO
+
+Usage:
+```python 
+
+from fibonacci import fibonacci 
+
+print (ficbonacci(10))
+```
