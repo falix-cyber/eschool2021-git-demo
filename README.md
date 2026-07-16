@@ -7,6 +7,8 @@ Usage:
 
 from fibonacci import fibonacci 
 
-print (ficbonacci(20))
+for n in range(20):
+    print(fibonacci(n))
+
 ```
 Hello World
