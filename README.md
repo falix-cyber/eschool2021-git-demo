@@ -7,6 +7,6 @@ Usage:
 
 from fibonacci import fibonacci 
 
-print (ficbonacci(10))
+print (ficbonacci(20))
 ```
 Hello World
