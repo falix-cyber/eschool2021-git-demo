@@ -22,4 +22,5 @@ def fib_gen(n):
         yield fibonacci(i)
 
 if __name__  == '__main__':
-    print(fibonacci(35))
+    for n in fib_gen(20):
+        print(n)
